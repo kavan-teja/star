@@ -1,7 +1,3 @@
 int main(){
-int a=10,b=20;
+int a,b;
 sum=a+b;
-sum of the variables is 30
-
-
-
